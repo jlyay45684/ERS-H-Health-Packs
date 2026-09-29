@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "packId": "official.basic-symptoms",
+      "version": 2,
+      "nameZh": "常見症狀擴充包",
+      "nameEn": "Common Symptoms Pack",
+      "downloadUrl": "https://raw.githubusercontent.com/jlyay45684/ERS-H-Health-Packs/main/packs/official.basic-symptoms/v2.json",
+      "sha256": "737b77602ca0a3d91cfcaaf6469db1b334ffd7abf706e6081b149a52945a97a1",
+      "sizeBytes": 636
+    }
+  ]
+}

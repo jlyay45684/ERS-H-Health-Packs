@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packId": "official.basic-symptoms",
+  "version": 2,
+  "nameZh": "常見症狀擴充包",
+  "nameEn": "Common Symptoms Pack",
+  "entries": [
+    {
+      "code": "TOOTH_PAIN",
+      "nameZh": "牙痛",
+      "nameEn": "Tooth pain",
+      "category": "NON_DIAGNOSTIC_FEATURE",
+      "diagnosticStatus": "NOT_INDEPENDENT_DIAGNOSIS",
+      "aliases": []
+    },
+    {
+      "code": "SELF_REPORTED_INFLAMMATION",
+      "nameZh": "發炎",
+      "nameEn": "Self-reported inflammation",
+      "category": "NON_DIAGNOSTIC_FEATURE",
+      "diagnosticStatus": "NOT_INDEPENDENT_DIAGNOSIS",
+      "aliases": []
+    }
+  ]
+}
