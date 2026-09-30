@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "packId": "official.treatment-and-features",
+  "version": 1,
+  "nameZh": "治療與特徵擴充包",
+  "nameEn": "Treatment and Features Pack",
+  "entries": [
+    {
+      "code": "DIALYSIS",
+      "nameZh": "洗腎",
+      "nameEn": "Dialysis",
+      "category": "TREATMENT_STATUS",
+      "diagnosticStatus": "TREATMENT_NOT_DIAGNOSIS",
+      "aliases": ["透析"]
+    },
+    {
+      "code": "MIND_BLINDNESS_CONCEPT",
+      "nameZh": "心智盲（原稱精神盲）",
+      "nameEn": "Mind blindness",
+      "category": "COGNITIVE_PSYCHOLOGICAL_CONCEPT",
+      "diagnosticStatus": "NOT_INDEPENDENT_DIAGNOSIS",
+      "aliases": ["精神盲"]
+    },
+    {
+      "code": "OTHERS_EMOTION_RECOGNITION_DIFFICULTY",
+      "nameZh": "他人情緒辨識困難（原稱情感盲）",
+      "nameEn": "Difficulty recognizing others' emotions",
+      "category": "NON_DIAGNOSTIC_FEATURE",
+      "diagnosticStatus": "NOT_INDEPENDENT_DIAGNOSIS",
+      "aliases": ["情感盲"]
+    }
+  ]
+}

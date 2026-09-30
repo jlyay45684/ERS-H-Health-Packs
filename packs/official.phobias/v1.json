@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "packId": "official.phobias",
+  "version": 1,
+  "nameZh": "恐懼相關擴充包",
+  "nameEn": "Phobias Pack",
+  "entries": [
+    {
+      "code": "CLAUSTROPHOBIA",
+      "nameZh": "幽閉恐懼",
+      "nameEn": "Claustrophobia (fear of enclosed spaces)",
+      "category": "SPECIFIC_PHOBIA_PRESENTATION",
+      "diagnosticStatus": "PRESENTATION_NOT_SEPARATE_DIAGNOSIS",
+      "aliases": []
+    },
+    {
+      "code": "ACROPHOBIA",
+      "nameZh": "恐高症",
+      "nameEn": "Acrophobia (fear of heights)",
+      "category": "SPECIFIC_PHOBIA_PRESENTATION",
+      "diagnosticStatus": "PRESENTATION_NOT_SEPARATE_DIAGNOSIS",
+      "aliases": []
+    },
+    {
+      "code": "NEEDLE_PHOBIA",
+      "nameZh": "針頭恐懼",
+      "nameEn": "Needle phobia (fear of injections)",
+      "category": "SPECIFIC_PHOBIA_PRESENTATION",
+      "diagnosticStatus": "PRESENTATION_NOT_SEPARATE_DIAGNOSIS",
+      "aliases": []
+    },
+    {
+      "code": "AQUAPHOBIA",
+      "nameZh": "水恐懼",
+      "nameEn": "Aquaphobia",
+      "category": "SPECIFIC_PHOBIA_PRESENTATION",
+      "diagnosticStatus": "PRESENTATION_NOT_SEPARATE_DIAGNOSIS",
+      "aliases": ["怕水"]
+    },
+    {
+      "code": "VASOVAGAL_SYNCOPE",
+      "nameZh": "暈血症",
+      "nameEn": "Vasovagal syncope",
+      "category": "PHYSICAL_CONDITION",
+      "diagnosticStatus": "RECOGNIZED_CONDITION",
+      "aliases": ["見血後昏厥"]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "packId": "official.neurology",
+  "version": 1,
+  "nameZh": "神經系統擴充包",
+  "nameEn": "Neurology Pack",
+  "entries": [
+    {
+      "code": "PARKINSON_DISEASE",
+      "nameZh": "帕金森氏症",
+      "nameEn": "Parkinson disease",
+      "category": "PHYSICAL_CONDITION",
+      "diagnosticStatus": "RECOGNIZED_CONDITION",
+      "aliases": []
+    },
+    {
+      "code": "DEMENTIA",
+      "nameZh": "失智症",
+      "nameEn": "Dementia",
+      "category": "PHYSICAL_CONDITION",
+      "diagnosticStatus": "CONDITION_GROUP",
+      "aliases": []
+    },
+    {
+      "code": "ASD",
+      "nameZh": "自閉症類群障礙 ASD",
+      "nameEn": "Autism spectrum disorder",
+      "category": "NEURODEVELOPMENTAL",
+      "diagnosticStatus": "RECOGNIZED_CONDITION",
+      "aliases": ["自閉症類群障礙"]
+    },
+    {
+      "code": "ASPERGER_HISTORICAL",
+      "nameZh": "亞斯伯格",
+      "nameEn": "Asperger syndrome (historical term within ASD)",
+      "category": "NEURODEVELOPMENTAL",
+      "diagnosticStatus": "HISTORICAL_ALIAS",
+      "aliases": ["亞斯伯格症"],
+      "canonicalCode": "ASD"
+    }
+  ]
+}

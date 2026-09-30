@@ -9,6 +9,60 @@
       "downloadUrl": "https://raw.githubusercontent.com/jlyay45684/ERS-H-Health-Packs/main/packs/official.basic-symptoms/v2.json",
       "sha256": "737b77602ca0a3d91cfcaaf6469db1b334ffd7abf706e6081b149a52945a97a1",
       "sizeBytes": 636
+    },
+    {
+      "packId": "official.musculoskeletal-extended",
+      "version": 1,
+      "nameZh": "肌肉骨骼擴充包",
+      "nameEn": "Musculoskeletal Extended Pack",
+      "downloadUrl": "https://raw.githubusercontent.com/jlyay45684/ERS-H-Health-Packs/main/packs/official.musculoskeletal-extended/v1.json",
+      "sha256": "090f8b7c1a5605a21f1c6078d633874503f6b44d98ec4fdb3cd3bc510f0dc486",
+      "sizeBytes": 926
+    },
+    {
+      "packId": "official.neurology",
+      "version": 1,
+      "nameZh": "神經系統擴充包",
+      "nameEn": "Neurology Pack",
+      "downloadUrl": "https://raw.githubusercontent.com/jlyay45684/ERS-H-Health-Packs/main/packs/official.neurology/v1.json",
+      "sha256": "f77133513446702248d116abba03fee9c2c9aad630ebb7555f5fa167a2773dd8",
+      "sizeBytes": 1149
+    },
+    {
+      "packId": "official.mental-health-extended",
+      "version": 1,
+      "nameZh": "心理健康擴充包",
+      "nameEn": "Mental Health Extended Pack",
+      "downloadUrl": "https://raw.githubusercontent.com/jlyay45684/ERS-H-Health-Packs/main/packs/official.mental-health-extended/v1.json",
+      "sha256": "84c1888da736e3121e905f7746064a0c50eeede0fd7a704e949cb36e53465697",
+      "sizeBytes": 1374
+    },
+    {
+      "packId": "official.phobias",
+      "version": 1,
+      "nameZh": "恐懼相關擴充包",
+      "nameEn": "Phobias Pack",
+      "downloadUrl": "https://raw.githubusercontent.com/jlyay45684/ERS-H-Health-Packs/main/packs/official.phobias/v1.json",
+      "sha256": "e314b8f3526728ec731f8be8db1a216519823157f85e5bba9a9e4a85469168c7",
+      "sizeBytes": 1431
+    },
+    {
+      "packId": "official.systemic-chronic",
+      "version": 1,
+      "nameZh": "全身性慢性狀況擴充包",
+      "nameEn": "Systemic Chronic Pack",
+      "downloadUrl": "https://raw.githubusercontent.com/jlyay45684/ERS-H-Health-Packs/main/packs/official.systemic-chronic/v1.json",
+      "sha256": "bad4df59f2f8d48ec1da78e85f5ae21966db4956e2b42a286e270fe8d129419e",
+      "sizeBytes": 688
+    },
+    {
+      "packId": "official.treatment-and-features",
+      "version": 1,
+      "nameZh": "治療與特徵擴充包",
+      "nameEn": "Treatment and Features Pack",
+      "downloadUrl": "https://raw.githubusercontent.com/jlyay45684/ERS-H-Health-Packs/main/packs/official.treatment-and-features/v1.json",
+      "sha256": "18871fc1cb1084547a4ade80b862ff4f41d86e8e684083e4fe8676db87714c62",
+      "sizeBytes": 1000
     }
   ]
 }

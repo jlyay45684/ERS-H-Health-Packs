@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packId": "official.systemic-chronic",
+  "version": 1,
+  "nameZh": "全身性慢性狀況擴充包",
+  "nameEn": "Systemic Chronic Pack",
+  "entries": [
+    {
+      "code": "SYSTEMIC_LUPUS_ERYTHEMATOSUS",
+      "nameZh": "全身性紅斑性狼瘡",
+      "nameEn": "Systemic lupus erythematosus",
+      "category": "PHYSICAL_CONDITION",
+      "diagnosticStatus": "RECOGNIZED_CONDITION",
+      "aliases": ["SLE"]
+    },
+    {
+      "code": "PSORIASIS",
+      "nameZh": "乾癬／牛皮癬",
+      "nameEn": "Psoriasis",
+      "category": "PHYSICAL_CONDITION",
+      "diagnosticStatus": "RECOGNIZED_CONDITION",
+      "aliases": ["乾癬", "牛皮癬"]
+    }
+  ]
+}

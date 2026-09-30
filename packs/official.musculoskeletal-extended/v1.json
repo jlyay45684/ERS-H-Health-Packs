@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "packId": "official.musculoskeletal-extended",
+  "version": 1,
+  "nameZh": "肌肉骨骼擴充包",
+  "nameEn": "Musculoskeletal Extended Pack",
+  "entries": [
+    {
+      "code": "RHEUMATOID_ARTHRITIS",
+      "nameZh": "類風濕性關節炎",
+      "nameEn": "Rheumatoid arthritis",
+      "category": "PHYSICAL_CONDITION",
+      "diagnosticStatus": "RECOGNIZED_CONDITION",
+      "aliases": []
+    },
+    {
+      "code": "ANKYLOSING_SPONDYLITIS",
+      "nameZh": "僵直性脊椎炎",
+      "nameEn": "Ankylosing spondylitis",
+      "category": "PHYSICAL_CONDITION",
+      "diagnosticStatus": "RECOGNIZED_CONDITION",
+      "aliases": []
+    },
+    {
+      "code": "FLAT_FEET",
+      "nameZh": "扁平足",
+      "nameEn": "Flat feet (pes planus)",
+      "category": "PHYSICAL_CONDITION",
+      "diagnosticStatus": "PRESENTATION_NOT_SEPARATE_DIAGNOSIS",
+      "aliases": ["足弓扁平"]
+    }
+  ]
+}

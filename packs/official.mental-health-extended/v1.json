@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "packId": "official.mental-health-extended",
+  "version": 1,
+  "nameZh": "心理健康擴充包",
+  "nameEn": "Mental Health Extended Pack",
+  "entries": [
+    {
+      "code": "PTSD",
+      "nameZh": "PTSD",
+      "nameEn": "Post-traumatic stress disorder",
+      "category": "MENTAL_HEALTH",
+      "diagnosticStatus": "RECOGNIZED_CONDITION",
+      "aliases": ["創傷後壓力症候群"]
+    },
+    {
+      "code": "OCD",
+      "nameZh": "OCD",
+      "nameEn": "Obsessive-compulsive disorder",
+      "category": "MENTAL_HEALTH",
+      "diagnosticStatus": "RECOGNIZED_CONDITION",
+      "aliases": ["強迫症"]
+    },
+    {
+      "code": "BPD",
+      "nameZh": "邊緣型人格障礙 BPD",
+      "nameEn": "Borderline personality disorder",
+      "category": "MENTAL_HEALTH",
+      "diagnosticStatus": "RECOGNIZED_CONDITION",
+      "aliases": ["邊緣型人格障礙"]
+    },
+    {
+      "code": "ANOREXIA_NERVOSA",
+      "nameZh": "神經性厭食症",
+      "nameEn": "Anorexia nervosa",
+      "category": "MENTAL_HEALTH",
+      "diagnosticStatus": "RECOGNIZED_CONDITION",
+      "aliases": []
+    },
+    {
+      "code": "BINGE_EATING_DISORDER",
+      "nameZh": "暴食障礙",
+      "nameEn": "Binge-eating disorder",
+      "category": "MENTAL_HEALTH",
+      "diagnosticStatus": "RECOGNIZED_CONDITION",
+      "aliases": ["暴食症"]
+    }
+  ]
+}
